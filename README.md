@@ -46,8 +46,7 @@ terminates.
 
 ## License
 
-See https://www.r-project.org/Licenses/ for the R licenses
-
+See https://www.r-project.org/Licenses/ for the R licenses.
 The evercran tools are licensed under the MIT License.
 
 © [Gábor Csárdi](https://github.com/gaborcsardi), 
