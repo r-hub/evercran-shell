@@ -1,6 +1,9 @@
 
 # Run any version of R interactively on GitHub Actions
 
+Uses the [evercran container images](
+https://github.com/r-hub/evercran#readme).
+
 ## Requirements
 
 You need an SSH client to connect.
